@@ -1,0 +1,33 @@
+{
+  "hotel_info": {
+    "nom": "Hôtel de Luxe Daloa",
+    "whatsapp": "0502155377",
+    "adresse": "Daloa, Côte d'Ivoire"
+  },
+  "chambres": [
+    {
+      "id": 1,
+      "nom": "Suite Executive",
+      "prix": "45.000",
+      "image": "imanges/image/suite_ex.jpg",
+      "status": "disponible"
+    }
+  ],
+  "gastronomie": [
+    {
+      "id": 1,
+      "titre": "Menu Signature",
+      "description": "Attiéké de luxe aux gambas grillées",
+      "prix": "8.500",
+      "image": "imanges/image/plat1.jpg"
+    }
+  ],
+  "loisirs": [
+    {
+      "id": 1,
+      "activite": "Piscine Olympique",
+      "acces": "Gratuit pour les clients",
+      "image": "imanges/image/piscine.jpg"
+    }
+  ]
+}
