@@ -21,7 +21,14 @@
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/img_1770831833243.jpg"
     }
   ],
-  "gastronomie": [],
+  "gastronomie": [
+    {
+      "id": 1770832093116,
+      "nom": "Nouveau",
+      "prix": "0",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
   "loisirs": [],
   "commandes": [
     {
