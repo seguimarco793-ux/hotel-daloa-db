@@ -6,20 +6,29 @@
       "prix": "30000",
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/hotel_1770829296427_111168.jpg",
       "disponible": true,
-      "stock": 0
+      "stock": "3"
     },
     {
       "id": 1770829891463,
       "nom": "Nouvelle Suite",
       "prix": "1500",
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/hotel_1770829925588_107010.png",
-      "disponible": true
+      "disponible": true,
+      "stock": "6"
     },
     {
       "id": 1770831825676,
       "nom": "Nouvelle",
       "prix": "0",
-      "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/img_1770831833243.jpg"
+      "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/img_1770831833243.jpg",
+      "stock": "2"
+    },
+    {
+      "id": 1770833739353,
+      "nom": "Nouveau",
+      "prix": "0",
+      "stock": 5,
+      "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/item_1770833828723.jpg"
     }
   ],
   "gastronomie": [
@@ -28,6 +37,13 @@
       "nom": "Nouveau",
       "prix": "2000",
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/item_1770832118728.jpg"
+    },
+    {
+      "id": 1770833731084,
+      "nom": "Nouveau",
+      "prix": "0",
+      "stock": 5,
+      "image": "https://via.placeholder.com/150"
     }
   ],
   "loisirs": [],
