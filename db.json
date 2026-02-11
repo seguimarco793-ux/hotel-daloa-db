@@ -5,7 +5,8 @@
       "nom": "Nouvelle Suite",
       "prix": "30000",
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/hotel_1770829296427_111168.jpg",
-      "disponible": true
+      "disponible": true,
+      "stock": "2"
     },
     {
       "id": 1770829891463,
