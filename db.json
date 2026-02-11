@@ -13,6 +13,12 @@
       "prix": "1500",
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/hotel_1770829925588_107010.png",
       "disponible": true
+    },
+    {
+      "id": 1770831825676,
+      "nom": "Nouvelle",
+      "prix": "0",
+      "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/img_1770831833243.jpg"
     }
   ],
   "gastronomie": [],
