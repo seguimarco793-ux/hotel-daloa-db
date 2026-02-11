@@ -3,13 +3,81 @@
     "nom": "Hôtel Prestige Daloa",
     "whatsapp": "0502155377",
     "email": "contact@hotelprestige.ci",
-    "adresse": "Daloa",
-    "description_generale": "Luxe et Confort"
+    "adresse": "Quartier Administratif, Daloa, Côte d'Ivoire",
+    "description_generale": "L'excellence du luxe et du confort en Côte d'Ivoire.",
+    "image_entete": "imanges/image/hero_default.jpg",
+    "devise": "FCFA",
+    "taxe_sejour": "500",
+    "last_audit": "2026-02-11"
   },
-  "chambres": [],
-  "gastronomie": [],
-  "loisirs": [],
-  "commandes": [],
-  "sos": [],
-  "avis": []
+  "chambres": [
+    {
+      "id": 1,
+      "nom": "Suite Executive Royale",
+      "prix": "65.000",
+      "description": "Lit King Size, climatisation, balcon privé, baignoire hydro-massante et petit-déjeuner VIP.",
+      "image": "imanges/image/suite_ex.jpg",
+      "status": "disponible",
+      "dernier_nettoyage": "2026-02-11",
+      "etage": "2ème étage"
+    }
+  ],
+  "gastronomie": [
+    {
+      "id": 101,
+      "titre": "Plateau Signature Prestige",
+      "description": "Gambas géantes grillées, calamars et poisson braisé, servis avec attiéké premium.",
+      "prix": "15.500",
+      "image": "imanges/image/plat1.jpg",
+      "disponible": true,
+      "categorie": "Plat de résistance"
+    }
+  ],
+  "loisirs": [
+    {
+      "id": 201,
+      "activite": "Piscine & Spa",
+      "description": "Piscine à débordement avec service de serviettes et cocktail de bienvenue.",
+      "acces": "Gratuit pour les clients",
+      "image": "imanges/image/piscine.jpg"
+    }
+  ],
+  "commandes": [
+    {
+      "id": 1712839001,
+      "client_nom": "Jean Marc",
+      "telephone": "2250102030405",
+      "article": "Suite Executive Royale",
+      "date": "2026-02-11",
+      "heure": "09:30",
+      "status": "en_attente",
+      "type": "Reservation"
+    }
+  ],
+  "sos": [
+    {
+      "id": 501,
+      "chambre": "Suite 302",
+      "type": "Urgence Médicale",
+      "heure": "08:15",
+      "status": "nouveau",
+      "priorite": "Haute"
+    }
+  ],
+  "avis": [
+    {
+      "id": 901,
+      "auteur": "Kouassi Marie",
+      "commentaire": "Séjour inoubliable, le personnel est d'un professionnalisme rare.",
+      "note": 5,
+      "valide": true
+    }
+  ],
+  "audit_logs": [
+    {
+      "date": "2026-02-11",
+      "action": "Initialisation du système Expert",
+      "utilisateur": "Admin"
+    }
+  ]
 }
