@@ -60,6 +60,14 @@
       "telephone": "0556272254",
       "article": "Nouvelle Suite",
       "date": "11/02/2026"
+    },
+    {
+      "id": 1770832202583,
+      "client_nom": "Segui 14 ",
+      "telephone": "0556272254",
+      "article": "Nouveau (0)",
+      "date": "11/02/2026",
+      "type": "MIXTE"
     }
   ]
 }
