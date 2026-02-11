@@ -1,10 +1,10 @@
 {
   "hotel_info": {
-    "nom": "Hôtel Prestige Daloa",
+    "nom": "HÃ´tel Prestige Daloa",
     "whatsapp": "0502155377",
     "email": "contact@hotelprestige.ci",
-    "adresse": "Quartier Administratif, Daloa, Côte d'Ivoire",
-    "description_generale": "L'excellence du luxe et du confort en Côte d'Ivoire.",
+    "adresse": "Quartier Administratif, Daloa, CÃ´te d'Ivoire",
+    "description_generale": "L'excellence du luxe et du confort en CÃ´te d'Ivoire.",
     "image_entete": "imanges/image/hero_default.jpg",
     "devise": "FCFA",
     "taxe_sejour": "500",
@@ -15,29 +15,38 @@
       "id": 1,
       "nom": "Suite Executive Royale",
       "prix": "65.000",
-      "description": "Lit King Size, climatisation, balcon privé, baignoire hydro-massante et petit-déjeuner VIP.",
+      "description": "Lit King Size, climatisation, balcon privÃ©, baignoire hydro-massante et petit-dÃ©jeuner VIP.",
       "image": "imanges/image/suite_ex.jpg",
       "status": "disponible",
       "dernier_nettoyage": "2026-02-11",
-      "etage": "2ème étage"
+      "etage": "2Ã¨me Ã©tage"
+    },
+    {
+      "id": 1770804310337,
+      "nom": "Nouvelle Chambre",
+      "prix": "50000",
+      "description": "Description de la chambre",
+      "image": "imanges/image/default.jpg",
+      "status": "disponible",
+      "etage": "1er etage"
     }
   ],
   "gastronomie": [
     {
       "id": 101,
       "titre": "Plateau Signature Prestige",
-      "description": "Gambas géantes grillées, calamars et poisson braisé, servis avec attiéké premium.",
+      "description": "Gambas gÃ©antes grillÃ©es, calamars et poisson braisÃ©, servis avec attiÃ©kÃ© premium.",
       "prix": "15.500",
       "image": "imanges/image/plat1.jpg",
       "disponible": true,
-      "categorie": "Plat de résistance"
+      "categorie": "Plat de rÃ©sistance"
     }
   ],
   "loisirs": [
     {
       "id": 201,
       "activite": "Piscine & Spa",
-      "description": "Piscine à débordement avec service de serviettes et cocktail de bienvenue.",
+      "description": "Piscine Ã  dÃ©bordement avec service de serviettes et cocktail de bienvenue.",
       "acces": "Gratuit pour les clients",
       "image": "imanges/image/piscine.jpg"
     }
@@ -58,7 +67,7 @@
     {
       "id": 501,
       "chambre": "Suite 302",
-      "type": "Urgence Médicale",
+      "type": "Urgence MÃ©dicale",
       "heure": "08:15",
       "status": "nouveau",
       "priorite": "Haute"
@@ -68,7 +77,7 @@
     {
       "id": 901,
       "auteur": "Kouassi Marie",
-      "commentaire": "Séjour inoubliable, le personnel est d'un professionnalisme rare.",
+      "commentaire": "SÃ©jour inoubliable, le personnel est d'un professionnalisme rare.",
       "note": 5,
       "valide": true
     }
@@ -76,7 +85,7 @@
   "audit_logs": [
     {
       "date": "2026-02-11",
-      "action": "Initialisation du système Expert",
+      "action": "Initialisation du systÃ¨me Expert",
       "utilisateur": "Admin"
     }
   ]
