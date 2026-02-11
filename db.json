@@ -17,5 +17,15 @@
   ],
   "gastronomie": [],
   "loisirs": [],
-  "commandes": []
+  "commandes": [
+    {
+      "id": 1770830159533,
+      "client_nom": "Segui",
+      "telephone": "2250502155377",
+      "article": "Nouvelle Suite",
+      "date": "11/02/2026",
+      "status": "en_attente",
+      "type": "Reservation"
+    }
+  ]
 }
