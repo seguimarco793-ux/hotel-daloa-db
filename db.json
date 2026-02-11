@@ -6,7 +6,7 @@
       "prix": "30000",
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/hotel_1770829296427_111168.jpg",
       "disponible": true,
-      "stock": "3"
+      "stock": 1
     },
     {
       "id": 1770829891463,
@@ -14,7 +14,7 @@
       "prix": "1500",
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/hotel_1770829925588_107010.png",
       "disponible": true,
-      "stock": "6"
+      "stock": 2
     },
     {
       "id": 1770831825676,
@@ -27,7 +27,7 @@
       "id": 1770833739353,
       "nom": "Nouveau",
       "prix": "0",
-      "stock": 5,
+      "stock": 4,
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/item_1770833828723.jpg"
     }
   ],
@@ -119,6 +119,13 @@
       "client_nom": "Segui 14 ",
       "telephone": "0556272254",
       "article": "Nouvelle, Nouvelle",
+      "date": "11/02/2026"
+    },
+    {
+      "id": 1770833911220,
+      "client_nom": "Hjjj",
+      "telephone": "0556272254",
+      "article": "Nouvelle Suite, Nouvelle Suite, Nouvelle Suite, Nouvelle Suite, Nouvelle Suite, Nouvelle Suite, Nouveau",
       "date": "11/02/2026"
     }
   ]
