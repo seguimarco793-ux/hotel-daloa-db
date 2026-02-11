@@ -65,6 +65,13 @@
       "description": "Description de l'activite",
       "acces": "Gratuit",
       "image": "imanges/image/default.jpg"
+    },
+    {
+      "id": 1770812034351,
+      "activite": "Nouvelle Activite",
+      "description": "Description de l'activite",
+      "acces": "Gratuit",
+      "image": "imanges/image/default.jpg"
     }
   ],
   "commandes": [
