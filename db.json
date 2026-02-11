@@ -6,7 +6,7 @@
       "prix": "30000",
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/hotel_1770829296427_111168.jpg",
       "disponible": true,
-      "stock": "2"
+      "stock": 1
     },
     {
       "id": 1770829891463,
@@ -69,6 +69,13 @@
       "article": "Nouveau (0)",
       "date": "11/02/2026",
       "type": "MIXTE"
+    },
+    {
+      "id": 1770832851607,
+      "client_nom": "Marco ",
+      "telephone": "0556272254",
+      "article": "Nouvelle Suite",
+      "date": "11/02/2026"
     }
   ]
 }
