@@ -11,6 +11,12 @@
       "prix": "45.000",
       "image": "imanges/image/suite_ex.jpg",
       "status": "disponible"
+    },
+    {
+      "id": 1770800407084,
+      "nom": "Bon plat",
+      "prix": "Attieké ",
+      "image": "imanges/image/img_1770800400088.jpg"
     }
   ],
   "gastronomie": [
