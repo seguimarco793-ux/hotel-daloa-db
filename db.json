@@ -6,6 +6,13 @@
       "prix": "30000",
       "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/hotel_1770829296427_111168.jpg",
       "disponible": true
+    },
+    {
+      "id": 1770829891463,
+      "nom": "Nouvelle Suite",
+      "prix": "1500",
+      "image": "https://raw.githubusercontent.com/seguimarco793-ux/hotel-daloa-db/main/imanges/image/hotel_1770829925588_107010.png",
+      "disponible": true
     }
   ],
   "gastronomie": [],
